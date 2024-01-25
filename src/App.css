@@ -1,0 +1,7 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+#three-canvas-container{
+  height: 100vh !important;
+  width: 220vh !important;
+}
